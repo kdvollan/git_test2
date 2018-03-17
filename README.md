@@ -1,0 +1,1 @@
+This is Kens second git project. Playing around with git in the command line!
